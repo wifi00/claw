@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/wifi00/claw:latest
+          tags: ghcr.io/wifi00/clawxt:latest

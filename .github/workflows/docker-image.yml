@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/argo-image:latest
+          tags: ghcr.io/wifi00/claw:latest
